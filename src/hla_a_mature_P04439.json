@@ -1,0 +1,23 @@
+{
+  "accession": "P04439",
+  "entry_name": "HLAA_HUMAN",
+  "sequence_version": 2,
+  "entry_version": 225,
+  "entry_updated": "2026-06-10",
+  "retrieved": "2026-09-04",
+  "source_url": "https://rest.uniprot.org/uniprotkb/P04439.txt",
+  "source_database": "UniProtKB/Swiss-Prot (reviewed)",
+  "source_precursor_positions": [
+    25,
+    365
+  ],
+  "source_signal_peptide_positions": [
+    1,
+    24
+  ],
+  "source_mature_feature_id": "PRO_0000018815",
+  "source_mature_feature_evidence": "FT SIGNAL 1..24, experimentally supported by PubMed:92029; FT CHAIN 25..365",
+  "reference_usage": "Mature residue numbering only; never replace deposited amino-acid identities with reference identities. The canonical alpha-1/alpha-2 groove is mature positions1..182 (UniProt25..206).",
+  "mature_sequence": "GSHSMRYFFTSVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASQRMEPRAPWIEQEGPEYWDQETRNVKAQSQTDRVDLGTLRGYYNQSEAGSHTIQIMYGCDVGSDGRFLRGYRQDAYDGKDYIALNEDLRSWTAADMAAQITKRKWEAAHEAEQLRAYLDGTCVEWLRRYLENGKETLQRTDPPKTHMTHHPISDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGEEQRYTCHVQHEGLPKPLTLRWELSSQPTIPIVGIIAGLVLLGAVITGAVVAAVMWRRKSSDRKGGSYTQAASSDSAQGSDVSLTACKV",
+  "sequence_sha256": "bb065b90911b4ffd6562bf15e6485a27068b4b47b2f422d3581a28f483cf3479"
+}

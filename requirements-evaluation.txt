@@ -1,0 +1,4 @@
+# Additional Python dependencies for the five external predictor adapters.
+-r requirements.txt
+mhcflurry==2.2.1
+seaborn==0.13.2
